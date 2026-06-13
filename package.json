@@ -1,0 +1,14 @@
+{
+  "name": "lead-tracker-app",
+  "description": "https://scrimba.com/learn-javascript-c0v/~0563",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
